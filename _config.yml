@@ -2,7 +2,7 @@
 permalink:      /:year-:month-:day/:title
 
 # Setup
-title:          Tale
+title:          Shun Yamada
 paginate:       5
 baseurl:        ""
 url:            "https://chesterhow.github.io"
@@ -17,9 +17,9 @@ markdown:       kramdown
 
 # About
 author:
-  name:         Chester How
-  url:          http://chester.how
-  email:        chesterhow@gmail.com
+  name:         Shun Yamada
+  url:          http://shunyamada.com
+  email:        sy@gociao.com
 
 # Custom vars
 version:        3.4.1
