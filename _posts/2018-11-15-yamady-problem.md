@@ -14,7 +14,7 @@ These are a list of certain problems you should avoid when beginning a startup c
 
 ## Like Customer Interview
 
-Customer interview is one of the most essential aspects when creating a startup. However, do you really interview to your user. I saw some startup friends ask their real friends, they're not even potential users. When you do that before developing, that's controversy because nobody uses your service yet. So that is never user interview.
+Customer interview is one of the most essential aspects when creating a startup. However, do you really interview to your user. I saw some startup friends ask their real friends, they're not even potential users. When you do that before developing, that's controversy because nobody uses your service yet. So that is never customer interview.
 
 When you have no service, you must not get some opinions to your idea from others. Sell first before you produce something.
 
