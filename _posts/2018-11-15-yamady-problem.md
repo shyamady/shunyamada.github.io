@@ -4,17 +4,17 @@ title: "Yamady Problem"
 author: "Shun Yamada"
 ---
 
-A problem the startup faces when they change their idea from another one is nothing to solve. Usually, they starts from the problem but the time they pivot doesn't give any problems they should solve.
+One of the problems a startup faces when they changes their idea is that there is nothing to solve. Usually, they start from a problem but the time it takes to change does not give them any problems to solve.
 
-Some startups including me are tend to fall in this problem and I have asked every person who I meet what suffers you. So we called it Yamady Problem.
+Some startups incliding mine tend to fall in this problem and I have asked every person who I meet what challenges you the most. So we called it Yamady Problem.
 
-You should decide to choose things you don't do are more important than ones which you do. If you were technical CEO, you may always code faster than think deep about the problem without learning every time.
+You should decide to choose the most important tasks from the several other lesser ones. If you are a technical CEO, you will always code faster than be able to think deeply about the problem without having to learn from scratch most of the time.
 
-These lists are that you should avoid when you had no problem to solve as your startup.
+These are a list of certain problems you should avoid when beginning a startup company.
 
-## Like User Interview
+## Like Customer Interview
 
-User Interview is one of the most essential parts when startup. However, do you really interview to your user. I saw some startup friends ask their real friends, they're not even potential users. When you do that before developing, that's controversy because nobody uses your service yet. So that is never user interview.
+Customer interview is one of the most essential aspects when creating a startup. However, do you really interview to your user. I saw some startup friends ask their real friends, they're not even potential users. When you do that before developing, that's controversy because nobody uses your service yet. So that is never user interview.
 
 When you have no service, you must not get some opinions to your idea from others. Sell first before you produce something.
 
